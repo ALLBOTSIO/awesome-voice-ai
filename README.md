@@ -41,6 +41,7 @@ But there's no single place to discover all the tools. This list fixes that.
 - [Voice Commerce](#voice-commerce) — Voice-activated shopping and payments
 - [Voice Platforms & Assistants](#voice-platforms--assistants) — Alexa, Siri, Google ecosystem
 - [MCP Servers for Voice](#mcp-servers-for-voice) — Model Context Protocol voice integrations
+- [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
 
 ---
 
