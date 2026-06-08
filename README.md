@@ -258,6 +258,7 @@ Model Context Protocol (MCP) servers relevant to voice AI applications.
 | **[Whisper MCP](https://github.com/nichochar/brave-search-mcp)** | Speech-to-text transcription via MCP | Voice input for any MCP client |
 | **[Home Assistant MCP](https://github.com/homeassistant-ai/ha-mcp)** | Smart home control via MCP | Voice-controlled smart home |
 | **[Spotify MCP](https://github.com/marcelmarais/spotify-mcp-server)** | Music playback and search via MCP | "Play my playlist" from any voice agent |
+| **[TWZRD Agent Intel](https://intel.twzrd.xyz/)** | Trust scoring for AI agents on Solana — verify agent wallet identity before x402 micropayments | MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` |
 
 > See **[Alexa-MCPs](https://github.com/ALLBOTSIO/Alexa-MCPs)** for the full 200-server directory of MCP servers optimized for voice assistants.
 
