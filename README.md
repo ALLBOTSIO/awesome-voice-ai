@@ -254,6 +254,7 @@ Model Context Protocol (MCP) servers relevant to voice AI applications.
 |--------|-------------|----------------|
 | **[Retell AI MCP](https://github.com/nichochar/retell-mcp-server)** | Manage Retell AI voice agents via MCP | Build and deploy voice agents from any MCP client |
 | **[ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp)** | Text-to-speech and voice cloning via MCP | Generate speech from any AI assistant |
+| **[RunAPI ElevenLabs MCP](https://github.com/runapi-ai/elevenlabs-mcp)** | RunAPI-maintained MCP server for ElevenLabs audio jobs | Create tasks, check pricing, and poll audio results from MCP clients |
 | **[Voice Call MCP](https://github.com/popcornspace/voice-call-mcp-server)** | Initiate voice calls via Twilio + OpenAI | AI-initiated phone calls |
 | **[Whisper MCP](https://github.com/nichochar/brave-search-mcp)** | Speech-to-text transcription via MCP | Voice input for any MCP client |
 | **[Home Assistant MCP](https://github.com/homeassistant-ai/ha-mcp)** | Smart home control via MCP | Voice-controlled smart home |
