@@ -135,6 +135,7 @@ Transcription, real-time recognition, and audio understanding.
 | **[NeMo (NVIDIA)](https://github.com/NVIDIA/NeMo)** | 12k+ | Apache 2.0 | Enterprise-grade, Conformer/Canary models, GPU optimized |
 | **[Whisper-Streaming](https://github.com/ufal/whisper_streaming)** | 2k+ | MIT | Real-time streaming Whisper with local agreement |
 | **[Insanely-Fast-Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)** | 7k+ | MIT | 150x faster with speculative decoding + batching |
+| **[Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)** | 33 | AGPL-3.0 | On-device voice dictation and transcription via Whisper.cpp, fully offline on Mac |
 
 > [Full STT comparison →](categories/speech-to-text/)
 
