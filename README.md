@@ -93,6 +93,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 |------|:-----:|---------|------------|
 | **[Coqui XTTS](https://github.com/coqui-ai/TTS)** | 36k+ | MPL 2.0 | Voice cloning with 6s sample, multilingual, most downloaded on HF |
 | **[Bark](https://github.com/suno-ai/bark)** | 37k+ | MIT | Non-verbal sounds, laughter, music, multi-speaker |
+| **[KittenTTS](https://github.com/KittenML/KittenTTS)** | 14k+ | Apache 2.0 | Lightweight ONNX models, CPU inference, built-in voices |
 | **[Piper](https://github.com/rhasspy/piper)** | 7k+ | MIT | Lightweight, runs on Raspberry Pi, 20+ languages |
 | **[StyleTTS2](https://github.com/yl4579/StyleTTS2)** | 5k+ | MIT | Studio-quality, style diffusion, human-level naturalness |
 | **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** | 40k+ | MIT | 1-min voice data training, few-shot cloning |
