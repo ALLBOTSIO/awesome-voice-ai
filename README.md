@@ -54,6 +54,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[Vapi](https://vapi.ai/)** | Commercial | Provider-agnostic voice AI orchestration layer | 62M monthly calls, 14+ providers, $0.05/min, 99.99% SLA |
 | **[ElevenLabs Conversational AI](https://elevenlabs.io/)** | Commercial | Voice agent platform with industry-leading voice quality | Sub-100ms latency, 11,000+ voices, 70+ languages |
 | **[Bland AI](https://www.bland.ai/)** | Commercial | High-volume outbound voice agent platform | Purpose-built for sales campaigns, enterprise telephony |
+| **[CallURL](https://callurl.com/0hiug2e)** | Commercial | Create AI phone lines for flyers, rooms, products, assignments, events, forms, and workflows | Free creation, phone calls, shareable links and QR codes |
 | **[LiveKit Agents](https://github.com/livekit/agents)** | Open Source | Real-time voice agent framework with WebRTC | Fully open source, plugin architecture, MCP support |
 | **[Hermes](https://www.buildwithhermes.com/)** | Commercial | Operating platform for AI voice agencies, white-label under the agency brand | Built-in CRM, campaign engine, per-client workspaces, usage billing, from $149/mo |
 | **[Synthflow](https://synthflow.ai/)** | Commercial | No-code voice agent builder | White-label, 200+ integrations, appointment booking |
