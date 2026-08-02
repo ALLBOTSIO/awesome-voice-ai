@@ -65,6 +65,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[Inworld AI](https://inworld.ai/)** | Commercial | Character-driven voice AI for games and enterprise | Real-time animation, emotional intelligence, gaming SDK |
 | **[PlayAI](https://play.ai/)** | Commercial | Voice agent platform with ultra-realistic voices | Sub-200ms latency, voice cloning, custom models |
 | **[Thoughtly](https://www.thoughtly.io/)** | Commercial | Enterprise voice agent with human-like conversations | No-code builder, CRM sync, call analytics |
+| **[Nexa AI Receptionist](https://nexaaisocial.com/receptionist)** | Commercial | AI phone receptionist for local businesses (dental, med spa, salons, trades) | Self-serve setup, books into Google Calendar, SMS lead alerts, flat monthly pricing |
 
 > [Detailed comparison →](categories/voice-agents/)
 
