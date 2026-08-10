@@ -176,6 +176,7 @@ Open-source frameworks for building voice AI applications.
 | **[Nimble Pipecat](https://github.com/daily-co/nimble-pipecat)** | 500+ | Python | Lightweight voice agent framework by Daily |
 | **[NVIDIA Voice Agent](https://github.com/NVIDIA/voice-agent-examples)** | 500+ | Python | Pipecat-based examples for real-time voice agents |
 | **[MCP Voice Assistant](https://github.com/mcp-use/mcp-use-voice-assistant)** | 300+ | Python | Voice assistant powered by MCP, Whisper + ElevenLabs |
+| **[voicepilot](https://github.com/zcall-io/voicepilot)** | New | Python | Place phone calls from Python — text-to-speech, press-1 voice broadcasts, and live AI voice agents; automatic local-presence caller ID |
 
 > [Full framework comparison →](categories/frameworks/)
 
