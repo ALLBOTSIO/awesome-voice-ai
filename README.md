@@ -86,7 +86,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[Azure Speech](https://azure.microsoft.com/en-us/products/ai-services/text-to-speech)** | <200ms | 100+ | Custom Neural Voice, SSML, avatar support |
 | **[Resemble AI](https://www.resemble.ai/)** | <200ms | 25+ | Real-time cloning, emotion control, API |
 | **[Cartesia](https://cartesia.ai/)** | <80ms | 10+ | Sonic model, ultra-low latency streaming |
-| **[Gandr](https://gandr.ai/)** | 146 ms client / 116 ms server warm | 23 | Voice agents: numbers, dates and order IDs read right, 6 voices, every render watermarked, free key |
+| **[Gandr](https://gandr.ai/)** | 146 ms client / 116 ms server warm | 23 | Voice agents: numbers, dates and order IDs read right, 6 voices, every render watermarked, 100,000 tokens, no credit card required |
 | **[Fish Audio](https://fish.audio/)** | <150ms | 10+ | Open-weight models, voice cloning, multilingual |
 
 ### Open Source
