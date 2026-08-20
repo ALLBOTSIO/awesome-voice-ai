@@ -83,6 +83,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[Deepgram Aura](https://deepgram.com/aura)** | <100ms | 10+ | Optimized for voice agents, streaming, low cost |
 | **[Amazon Polly](https://aws.amazon.com/polly/)** | <200ms | 30+ | AWS integration, SSML, neural voices |
 | **[Google Cloud TTS](https://cloud.google.com/text-to-speech)** | <200ms | 40+ | WaveNet and Neural2 voices, Studio voices |
+| **[Gradium](https://gradium.ai/)** | <160ms | 5 | Built for real-time voice agents, streaming WebSocket, instant voice cloning |
 | **[Azure Speech](https://azure.microsoft.com/en-us/products/ai-services/text-to-speech)** | <200ms | 100+ | Custom Neural Voice, SSML, avatar support |
 | **[Resemble AI](https://www.resemble.ai/)** | <200ms | 25+ | Real-time cloning, emotion control, API |
 | **[Cartesia](https://cartesia.ai/)** | <80ms | 10+ | Sonic model, ultra-low latency streaming |
@@ -123,6 +124,7 @@ Transcription, real-time recognition, and audio understanding.
 | **[Speechmatics](https://www.speechmatics.com/)** | <10% | 50+ | On-prem option, real-time, batch, translation |
 | **[Rev AI](https://www.rev.ai/)** | <5% | 30+ | Human-verified option, 99% accuracy, legal/medical |
 | **[Google Cloud STT](https://cloud.google.com/speech-to-text)** | <12% | 125+ | Chirp model, medical dictation, streaming |
+| **[Gradium](https://gradium.ai/)** | <3% | 5 | Semantic VAD turn detection, real-time streaming, voice agent optimized |
 | **[Azure Speech](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text)** | <10% | 100+ | Custom speech models, real-time, batch |
 | **[Amazon Transcribe](https://aws.amazon.com/transcribe/)** | <12% | 100+ | Medical, call analytics, volume discounts to 67% |
 
@@ -176,6 +178,7 @@ Open-source frameworks for building voice AI applications.
 | **[Nimble Pipecat](https://github.com/daily-co/nimble-pipecat)** | 500+ | Python | Lightweight voice agent framework by Daily |
 | **[NVIDIA Voice Agent](https://github.com/NVIDIA/voice-agent-examples)** | 500+ | Python | Pipecat-based examples for real-time voice agents |
 | **[MCP Voice Assistant](https://github.com/mcp-use/mcp-use-voice-assistant)** | 300+ | Python | Voice assistant powered by MCP, Whisper + ElevenLabs |
+| **[Gradbot](https://github.com/gradium-ai/gradbot)** | 100+ | Rust | Open-source voice agent framework built on Gradium TTS/STT APIs |
 
 > [Full framework comparison →](categories/frameworks/)
 
