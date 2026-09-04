@@ -134,6 +134,7 @@ Transcription, real-time recognition, and audio understanding.
 
 | Tool | Stars | License | Highlights |
 |------|:-----:|---------|------------|
+| **[AI Dictation](https://github.com/writingmate/aidictation)** | 33 | MIT | Cross-platform voice typing with offline recognition on supported devices |
 | **[Whisper](https://github.com/openai/whisper)** | 75k+ | MIT | The standard, 99+ languages, robust in noise |
 | **[Faster-Whisper](https://github.com/SYSTRAN/faster-whisper)** | 13k+ | MIT | 4x faster than Whisper, CTranslate2 backend |
 | **[Whisper.cpp](https://github.com/ggerganov/whisper.cpp)** | 37k+ | MIT | C/C++ port, runs on CPU/phone/RPi, WASM support |
