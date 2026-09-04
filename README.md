@@ -90,6 +90,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[Resemble AI](https://www.resemble.ai/)** | <200ms | 25+ | Real-time cloning, emotion control, API |
 | **[Cartesia](https://cartesia.ai/)** | <80ms | 10+ | Sonic model, ultra-low latency streaming |
 | **[Fish Audio](https://fish.audio/)** | <150ms | 10+ | Open-weight models, voice cloning, multilingual |
+| **[CharaVox](https://charavox.com/)** | — | 6 | Character voices, voice cloning, role-specific pages (VoxCPM) |
 
 ### Open Source
 
