@@ -163,6 +163,7 @@ Clone voices from short audio samples for custom TTS.
 | **[ElevenLabs](https://elevenlabs.io/)** | — | Commercial | Professional voice cloning, 29 languages |
 | **[Resemble AI](https://www.resemble.ai/)** | — | Commercial | Real-time cloning, emotion control, watermarking |
 | **[Play.ht](https://play.ht/)** | — | Commercial | Instant cloning, cross-lingual, API access |
+| **[voicetoinstrument.com](https://voicetoinstrument.com)** | — | AI Tool | Convert voice recordings to instrumental tracks using AI |
 
 > [Full voice cloning comparison →](categories/voice-cloning/)
 
