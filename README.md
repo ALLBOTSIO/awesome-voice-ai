@@ -211,6 +211,7 @@ Call analysis, conversation intelligence, and quality assurance.
 
 | Tool | Type | Description |
 |------|------|-------------|
+| **[Botik](https://github.com/777genius/discord-meeting-assistant)** | Open Source | Self-hosted Discord meeting assistant: records voice calls, transcribes, summarizes, and answers questions about the meeting |
 | **[Gong](https://www.gong.io/)** | Commercial | Revenue intelligence, call recording, deal insights |
 | **[Chorus.ai](https://www.chorus.ai/)** | Commercial | Conversation intelligence for sales teams (ZoomInfo) |
 | **[Observe.AI](https://www.observe.ai/)** | Commercial | Contact center AI, real-time agent assist, QA automation |
