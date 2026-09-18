@@ -217,6 +217,7 @@ Call analysis, conversation intelligence, and quality assurance.
 | **[Callrail](https://www.callrail.com/)** | Commercial | Call tracking, conversation analytics, lead attribution |
 | **[Symbl.ai](https://symbl.ai/)** | Commercial | Real-time conversation intelligence API, sentiment, topics |
 | **[Hamming AI](https://hamming.ai/)** | Commercial | Voice agent testing platform, automated regression testing |
+| **[Voiceeval](https://github.com/AgentPostmortem/Voiceeval)** | Open Source | Evaluation for voice agents: mis-hearing, missing confirmation, latency, barge-in |
 
 > [Full analytics comparison →](categories/voice-analytics/)
 
