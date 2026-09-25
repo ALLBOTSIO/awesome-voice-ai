@@ -250,6 +250,7 @@ Major voice assistant ecosystems and their developer tools.
 | **[Samsung Bixby](https://bixbydevelopers.com/)** | Platform | Capsules, voice actions, SmartThings |
 | **[OpenClaw](https://github.com/nicbarker/openclaw)** | Open Source | Personal AI assistant, 50+ integrations, 210k+ stars |
 | **[Open WebUI](https://github.com/open-webui/open-webui)** | Open Source | Self-hosted AI with voice, 124k+ stars, offline capable |
+| **[Thursday](https://github.com/cgoinglove/thursday)** | Open Source | Voice assistant on OpenAI GPT-Live; background bots with a real browser and a shell keep working while the call goes on, MIT |
 | **[Home Assistant Voice](https://www.home-assistant.io/voice_control/)** | Open Source | Privacy-focused voice control for smart home |
 
 > [Full platform comparison →](categories/voice-platforms/)
