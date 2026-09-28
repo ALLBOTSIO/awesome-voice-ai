@@ -67,6 +67,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[PlayAI](https://play.ai/)** | Commercial | Voice agent platform with ultra-realistic voices | Sub-200ms latency, voice cloning, custom models |
 | **[Thoughtly](https://www.thoughtly.io/)** | Commercial | Enterprise voice agent with human-like conversations | No-code builder, CRM sync, call analytics |
 | **[DialogBrain](https://dialogbrain.com/voice/api)** | Commercial | Multi-channel voice agents — calls on Telegram, WhatsApp, Google Meet, and web widgets | Real-time call translation, lipsync avatars, 244+ MCP tools, per-tenant Postgres |
+| **[Lokutor](https://lokutor.com/)** | Commercial | Full voice-agent pipeline (STT + LLM + TTS) with REST and WebSocket APIs | CPU-capable model (on-prem/edge deployable), GPU-hosted at scale, 10 built-in voices, 9 languages |
 
 > [Detailed comparison →](categories/voice-agents/)
 
@@ -91,6 +92,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[Cartesia](https://cartesia.ai/)** | <80ms | 10+ | Sonic model, ultra-low latency streaming |
 | **[Fish Audio](https://fish.audio/)** | <150ms | 10+ | Open-weight models, voice cloning, multilingual |
 | **[CharaVox](https://charavox.com/)** | — | 6 | Character voices, voice cloning, role-specific pages (VoxCPM) |
+| **[Lokutor](https://lokutor.com/)** | — | 9 | REST + WebSocket streaming synthesis, CPU-capable model (on-prem/edge deployable), 10 built-in voices |
 
 ### Open Source
 
