@@ -67,7 +67,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[PlayAI](https://play.ai/)** | Commercial | Voice agent platform with ultra-realistic voices | Sub-200ms latency, voice cloning, custom models |
 | **[Thoughtly](https://www.thoughtly.io/)** | Commercial | Enterprise voice agent with human-like conversations | No-code builder, CRM sync, call analytics |
 | **[DialogBrain](https://dialogbrain.com/voice/api)** | Commercial | Multi-channel voice agents — calls on Telegram, WhatsApp, Google Meet, and web widgets | Real-time call translation, lipsync avatars, 244+ MCP tools, per-tenant Postgres |
-| [AI Group Call](https://aigroupcall.app) | iOS, Android | Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items. | iOS, Android |
+| [AI Group Call](https://aigroupcall.app) | iOS + Android app | Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items. | Free 3 min of live calls, no card |
 
 > [Detailed comparison →](categories/voice-agents/)
 
