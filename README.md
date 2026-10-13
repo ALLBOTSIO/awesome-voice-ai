@@ -67,7 +67,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[PlayAI](https://play.ai/)** | Commercial | Voice agent platform with ultra-realistic voices | Sub-200ms latency, voice cloning, custom models |
 | **[Thoughtly](https://www.thoughtly.io/)** | Commercial | Enterprise voice agent with human-like conversations | No-code builder, CRM sync, call analytics |
 | **[DialogBrain](https://dialogbrain.com/voice/api)** | Commercial | Multi-channel voice agents — calls on Telegram, WhatsApp, Google Meet, and web widgets | Real-time call translation, lipsync avatars, 244+ MCP tools, per-tenant Postgres |
-| **[Telofy](https://telofy.de/)** | Commercial | AI phone receptionist for small businesses in Germany (German-language calls) | Keeps the existing number via call forwarding, appointment booking via cal.com, order intake with kitchen printer, white-label for agencies, EU data processing |
+| **[Telofy](https://telofy.de/)** | Commercial | AI phone receptionist for businesses in Germany, from single practices to multi-location companies (German-language calls); REST API, signed webhooks, MCP server | Keeps the existing number via call forwarding, appointment booking via cal.com, order intake with kitchen printer, white-label for agencies, EU data processing |
 
 > [Detailed comparison →](categories/voice-agents/)
 
