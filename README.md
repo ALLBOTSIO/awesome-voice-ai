@@ -34,6 +34,7 @@ But there's no single place to discover all the tools. This list fixes that.
 - [Voice Agent Platforms](#voice-agent-platforms) — Build and deploy voice AI agents
 - [Text-to-Speech](#text-to-speech) — AI speech synthesis and voice generation
 - [Speech-to-Text](#speech-to-text) — Transcription, recognition, and understanding
+- [Decision Models](#decision-models) — Models that decide what a voice agent does next
 - [Voice Cloning](#voice-cloning) — Clone and generate custom voices
 - [Frameworks & SDKs](#frameworks--sdks) — Open-source voice AI frameworks
 - [Telephony Infrastructure](#telephony-infrastructure) — SIP, phone numbers, call routing
@@ -146,6 +147,16 @@ Transcription, real-time recognition, and audio understanding.
 | **[Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)** | 33 | AGPL-3.0 | On-device voice dictation and transcription via Whisper.cpp, fully offline on Mac |
 
 > [Full STT comparison →](categories/speech-to-text/)
+
+---
+
+## Decision Models
+
+Models that map speech to decisions (tool calls, turn-taking, call control) so a voice agent does not need a full LLM call for every step.
+
+| Tool | Type | Description | Highlights |
+|------|------|-------------|------------|
+| **[Tazo Labs](https://tazolabs.com/)** | Commercial | Speech-to-decision models for voice agents, covering speculative tool calling, turn-taking, and end-call detection | Cut voice LLM costs by 50% |
 
 ---
 
