@@ -156,7 +156,7 @@ Models that map speech to decisions (tool calls, turn-taking, call control) so a
 
 | Tool | Type | Description | Highlights |
 |------|------|-------------|------------|
-| **[Tazo Labs](https://tazolabs.com/)** | Commercial | Speech-to-decision models for voice agents, covering speculative tool calling, turn-taking, and end-call detection | Cut voice LLM costs by 50% |
+| **[Tazo Labs](https://tazolabs.com/)** | Commercial | Speech-to-decision models for voice agents, covering speculative tool calling, turn-taking, and end-call detection | Reads call audio directly with no transcript step, returns a probability per option |
 
 ---
 
