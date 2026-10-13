@@ -183,6 +183,7 @@ Open-source frameworks for building voice AI applications.
 | **[NVIDIA Voice Agent](https://github.com/NVIDIA/voice-agent-examples)** | 500+ | Python | Pipecat-based examples for real-time voice agents |
 | **[MCP Voice Assistant](https://github.com/mcp-use/mcp-use-voice-assistant)** | 300+ | Python | Voice assistant powered by MCP, Whisper + ElevenLabs |
 | **[Gradbot](https://github.com/gradium-ai/gradbot)** | 100+ | Rust | Open-source voice agent framework built on Gradium TTS/STT APIs |
+| **[DuplexJev](https://github.com/adventists-ai/duplexjev)** | 10+ | Python | Turn detection and paralinguistic signals (end-of-turn, barge-in, emotion) from raw audio via a frozen speech LLM; LiveKit and Pipecat plugins. Apache-2.0 code, CC BY-NC weights |
 
 > [Full framework comparison →](categories/frameworks/)
 
