@@ -345,6 +345,7 @@ If this list helps you, star it so others can find it too.
 - **[Alexa-MCPs](https://github.com/ALLBOTSIO/Alexa-MCPs)** — 200 MCP servers for voice assistants
 - **[awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)** — 84k+ star MCP directory
 - **[awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026)** — 300+ AI agent resources
+- **[VoiceAgentStack](https://voiceagentstack.vercel.app)** — Free, sourced pricing comparison of 44 voice agent platforms, AI receptionists and speech engines, with all-in cost-per-minute estimates.
 
 ---
 
