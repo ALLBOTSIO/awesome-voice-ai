@@ -58,6 +58,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[LiveKit Agents](https://github.com/livekit/agents)** | Open Source | Real-time voice agent framework with WebRTC | Fully open source, plugin architecture, MCP support |
 | **[Hermes](https://www.buildwithhermes.com/)** | Commercial | Operating platform for AI voice agencies, white-label under the agency brand | Built-in CRM, campaign engine, per-client workspaces, usage billing, from $149/mo |
 | **[Synthflow](https://synthflow.ai/)** | Commercial | No-code voice agent builder | White-label, 200+ integrations, appointment booking |
+| **[VoiceDock](https://voicedock.ai/en)** | Commercial | EU-hosted voice agent platform for phone and web calls | REST API, Node.js SDK, hosted MCP server, bring-your-own-keys, €0.07/min plus models at cost |
 | **[Cognigy](https://www.cognigy.com/)** | Enterprise | Enterprise conversational AI platform | Omnichannel, contact center integration, 100+ languages |
 | **[Lindy AI](https://www.lindy.ai/)** | Commercial | AI assistant with voice agent capabilities | Multi-step workflows, triggers, CRM integration |
 | **[Air AI](https://www.air.ai/)** | Commercial | Autonomous voice agent for sales and customer service | 40+ minute conversations, calendar booking |
@@ -270,6 +271,7 @@ Model Context Protocol (MCP) servers relevant to voice AI applications.
 | **[Home Assistant MCP](https://github.com/homeassistant-ai/ha-mcp)** | Smart home control via MCP | Voice-controlled smart home |
 | **[Spotify MCP](https://github.com/marcelmarais/spotify-mcp-server)** | Music playback and search via MCP | "Play my playlist" from any voice agent |
 | **[DialogBrain MCP](https://docs.dialogbrain.com/)** | Full agent platform via MCP at api.dialogbrain.com/mcp — dispatch calls, translators, agents | Launch a voice call on Telegram/WhatsApp/Meet from any MCP client |
+| **[VoiceDock MCP](https://doc.voicedock.ai/docs/integrations/mcp-server)** | Hosted MCP server at mcp.hmsovereign.com/mcp to manage VoiceDock assistants, calls, numbers and campaigns | Build and test phone voice agents from any MCP client |
 
 > See **[Alexa-MCPs](https://github.com/ALLBOTSIO/Alexa-MCPs)** for the full 200-server directory of MCP servers optimized for voice assistants.
 
