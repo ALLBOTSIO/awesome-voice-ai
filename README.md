@@ -270,6 +270,7 @@ Model Context Protocol (MCP) servers relevant to voice AI applications.
 | **[Home Assistant MCP](https://github.com/homeassistant-ai/ha-mcp)** | Smart home control via MCP | Voice-controlled smart home |
 | **[Spotify MCP](https://github.com/marcelmarais/spotify-mcp-server)** | Music playback and search via MCP | "Play my playlist" from any voice agent |
 | **[DialogBrain MCP](https://docs.dialogbrain.com/)** | Full agent platform via MCP at api.dialogbrain.com/mcp — dispatch calls, translators, agents | Launch a voice call on Telegram/WhatsApp/Meet from any MCP client |
+| **[Yap MCP](https://github.com/founden-bot/yap-mcp)** | On-device speech-to-text MCP server and CLI (NVIDIA Parakeet, MIT) | Transcribe local audio and video files from Claude, Cursor or any MCP client without uploading them |
 
 > See **[Alexa-MCPs](https://github.com/ALLBOTSIO/Alexa-MCPs)** for the full 200-server directory of MCP servers optimized for voice assistants.
 
