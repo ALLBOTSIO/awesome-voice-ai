@@ -109,6 +109,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[MetaVoice](https://github.com/metavoiceio/metavoice-src)** | 3k+ | Apache 2.0 | Finetuning in 1 minute, emotional speech |
 | **[OpenEdAI Speech](https://github.com/matatonic/openedai-speech)** | 2k+ | AGPL | OpenAI API-compatible TTS server, drop-in replacement |
 | **[AllTalk TTS](https://github.com/erew123/alltalk_tts)** | 2k+ | AGPL | Multi-engine TTS server, text-generation-webui support |
+| **[SuperClonica](https://superclonica.com/en/superclonica)** | — | Apache 2.0 | Offline inference engine for Supertonic 3: same model and voice files, 1.6–1.7x faster on CPU/GPU, 31 languages, pip and Docker |
 
 > [Full TTS comparison →](categories/text-to-speech/)
 
