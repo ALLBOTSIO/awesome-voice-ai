@@ -131,6 +131,7 @@ Transcription, real-time recognition, and audio understanding.
 | **[Gradium](https://gradium.ai/)** | <3% | 5 | Semantic VAD turn detection, real-time streaming, voice agent optimized |
 | **[Azure Speech](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text)** | <10% | 100+ | Custom speech models, real-time, batch |
 | **[Amazon Transcribe](https://aws.amazon.com/transcribe/)** | <12% | 100+ | Medical, call analytics, volume discounts to 67% |
+| **[SayDart](https://saydart.com/)** | — | 30 | Desktop AI voice dictation for Windows and macOS: hold a key, speak, polished text in any app |
 
 ### Open Source
 
