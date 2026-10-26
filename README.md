@@ -68,6 +68,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[Thoughtly](https://www.thoughtly.io/)** | Commercial | Enterprise voice agent with human-like conversations | No-code builder, CRM sync, call analytics |
 | **[Workforce Wave](https://www.workforcewave.com/)** | Commercial | AI voice receptionist that answers inbound calls 24/7 for small businesses | Appointment booking, lead capture, after-hours coverage |
 | **[DialogBrain](https://dialogbrain.com/voice/api)** | Commercial | Multi-channel voice agents — calls on Telegram, WhatsApp, Google Meet, and web widgets | Real-time call translation, lipsync avatars, 244+ MCP tools, per-tenant Postgres |
+| **[Pickuply](https://getpickuply.com/)** | Commercial | AI receptionist for UK small businesses that answers calls diverted from the owner's existing number | Set up from the business website, bookings pencilled in for the owner to confirm, email summary after each call |
 
 > [Detailed comparison →](categories/voice-agents/)
 
