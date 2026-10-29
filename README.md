@@ -164,6 +164,7 @@ Clone voices from short audio samples for custom TTS.
 | **[ElevenLabs](https://elevenlabs.io/)** | — | Commercial | Professional voice cloning, 29 languages |
 | **[Resemble AI](https://www.resemble.ai/)** | — | Commercial | Real-time cloning, emotion control, watermarking |
 | **[Play.ht](https://play.ht/)** | — | Commercial | Instant cloning, cross-lingual, API access |
+| **[Resona](https://resonaio.com/)** | — | Commercial | Web-console AI voice cloning, TTS & voice design; 200k+ voice library; credit packs from $9 |
 
 > [Full voice cloning comparison →](categories/voice-cloning/)
 
