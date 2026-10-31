@@ -164,6 +164,7 @@ Clone voices from short audio samples for custom TTS.
 | **[ElevenLabs](https://elevenlabs.io/)** | — | Commercial | Professional voice cloning, 29 languages |
 | **[Resemble AI](https://www.resemble.ai/)** | — | Commercial | Real-time cloning, emotion control, watermarking |
 | **[Play.ht](https://play.ht/)** | — | Commercial | Instant cloning, cross-lingual, API access |
+| **[Tera Studio](https://terastudio.co/)** | — | Commercial | Singing-voice cloning from about 1 min of singing; sings uploaded songs back in your voice, any language |
 
 > [Full voice cloning comparison →](categories/voice-cloning/)
 
