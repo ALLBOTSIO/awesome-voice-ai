@@ -92,6 +92,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[Cartesia](https://cartesia.ai/)** | <80ms | 10+ | Sonic model, ultra-low latency streaming |
 | **[Fish Audio](https://fish.audio/)** | <150ms | 10+ | Open-weight models, voice cloning, multilingual |
 | **[CharaVox](https://charavox.com/)** | — | 6 | Character voices, voice cloning, role-specific pages (VoxCPM) |
+| **[Sitey AI](https://app.sitey.pk/)** | — | 2 | Urdu and English voices, 30 voices to pick from, WhatsApp voice notes; free Android app (40 a day) and web |
 
 ### Open Source
 
