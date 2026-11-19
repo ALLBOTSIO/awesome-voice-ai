@@ -178,7 +178,7 @@ Open-source frameworks for building voice AI applications.
 |-----------|:-----:|----------|-------------|
 | **[Pipecat](https://github.com/pipecat-ai/pipecat)** | 8k+ | Python | Voice + multimodal conversational AI by Daily. STT→LLM→TTS pipelines |
 | **[LiveKit Agents](https://github.com/livekit/agents)** | 5k+ | Python | Real-time voice agents with WebRTC, MCP support, plugin architecture |
-| **[TEN Framework](https://github.com/TEN-framework/ten-framework)** | 11k+ | Multi | Build voice agents with interchangeable STT, LLM, and TTS extensions. [Apache 2.0 with additional restrictions](https://github.com/TEN-framework/ten-framework/blob/main/LICENSE) |
+| **[TEN Framework](https://github.com/TEN-framework/ten-framework)** | 11k+ | Multi | TEN is an open-source framework for real-time multimodal conversational AI. [Apache 2.0 with additional restrictions](https://github.com/TEN-framework/ten-framework/blob/main/LICENSE) |
 | **[Vocode](https://github.com/vocodedev/vocode-core)** | 3k+ | Python | Low-level modular voice agent toolkit, telephony integration |
 | **[Bolna](https://github.com/bolna-ai/bolna)** | 2k+ | Python | Production voice agents with <1s latency, Twilio/Plivo ready |
 | **[OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime)** | — | Multi | Native multimodal streaming, voice-to-voice, function calling |
