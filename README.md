@@ -50,6 +50,7 @@ Platforms for building, deploying, and managing AI voice agents.
 
 | Tool | Type | Description | Highlights |
 |------|------|-------------|------------|
+| **[Agora Conversational AI Engine](https://docs.agora.io/en)** | Commercial | Runs conversational voice agents in Agora real-time audio channels | Connects agents to an LLM and streams spoken responses to clients |
 | **[Retell AI](https://www.retellai.com/)** | Commercial | Developer-friendly voice agent platform with drag-and-drop builder | MCP support, Twilio integration, multilingual, real-time workflows |
 | **[Vapi](https://vapi.ai/)** | Commercial | Provider-agnostic voice AI orchestration layer | 62M monthly calls, 14+ providers, $0.05/min, 99.99% SLA |
 | **[ElevenLabs Conversational AI](https://elevenlabs.io/)** | Commercial | Voice agent platform with industry-leading voice quality | Sub-100ms latency, 11,000+ voices, 70+ languages |
@@ -177,6 +178,7 @@ Open-source frameworks for building voice AI applications.
 |-----------|:-----:|----------|-------------|
 | **[Pipecat](https://github.com/pipecat-ai/pipecat)** | 8k+ | Python | Voice + multimodal conversational AI by Daily. STT→LLM→TTS pipelines |
 | **[LiveKit Agents](https://github.com/livekit/agents)** | 5k+ | Python | Real-time voice agents with WebRTC, MCP support, plugin architecture |
+| **[TEN Framework](https://github.com/TEN-framework/ten-framework)** | 11k+ | Multi | Build voice agents with interchangeable STT, LLM, and TTS extensions. [Apache 2.0 with additional restrictions](https://github.com/TEN-framework/ten-framework/blob/main/LICENSE) |
 | **[Vocode](https://github.com/vocodedev/vocode-core)** | 3k+ | Python | Low-level modular voice agent toolkit, telephony integration |
 | **[Bolna](https://github.com/bolna-ai/bolna)** | 2k+ | Python | Production voice agents with <1s latency, Twilio/Plivo ready |
 | **[OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime)** | — | Multi | Native multimodal streaming, voice-to-voice, function calling |
