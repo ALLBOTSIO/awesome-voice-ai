@@ -184,6 +184,7 @@ Open-source frameworks for building voice AI applications.
 | **[NVIDIA Voice Agent](https://github.com/NVIDIA/voice-agent-examples)** | 500+ | Python | Pipecat-based examples for real-time voice agents |
 | **[MCP Voice Assistant](https://github.com/mcp-use/mcp-use-voice-assistant)** | 300+ | Python | Voice assistant powered by MCP, Whisper + ElevenLabs |
 | **[Gradbot](https://github.com/gradium-ai/gradbot)** | 100+ | Rust | Open-source voice agent framework built on Gradium TTS/STT APIs |
+| **[Jev-Interaction](https://github.com/native-bond-lab/Jev-Interaction)** | 100+ | Python | Full-duplex turn-taking engine for STT→LLM→TTS agents; backchannels, barge-in and silences as plain-language decisions |
 
 > [Full framework comparison →](categories/frameworks/)
 
