@@ -101,6 +101,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[Cartesia](https://cartesia.ai/)** | <80ms | 10+ | Sonic model, ultra-low latency streaming |
 | **[Fish Audio](https://fish.audio/)** | <150ms | 10+ | Open-weight models, voice cloning, multilingual |
 | **[CharaVox](https://charavox.com/)** | — | 6 | Character voices, voice cloning, role-specific pages (VoxCPM) |
+| **[Miragea](https://miragea.ai/)** | — | 10 | Voice cloning from 5-10s samples, multi-speaker voiceovers, subtitle transcription, REST API |
 | **[Lokutor](https://lokutor.com/)** | — | 9 | REST + WebSocket streaming synthesis, CPU-capable model (on-prem/edge deployable), 10 built-in voices |
 
 ### Open Source
@@ -176,6 +177,7 @@ Clone voices from short audio samples for custom TTS.
 | **[ElevenLabs](https://elevenlabs.io/)** | — | Commercial | Professional voice cloning, 29 languages |
 | **[Resemble AI](https://www.resemble.ai/)** | — | Commercial | Real-time cloning, emotion control, watermarking |
 | **[Play.ht](https://play.ht/)** | — | Commercial | Instant cloning, cross-lingual, API access |
+| **[Miragea](https://miragea.ai/)** | — | Commercial | Cloning from 5-10s samples, 10 languages, REST API |
 | **[Resona](https://resonaio.com/)** | — | Commercial | Web-console AI voice cloning, TTS & voice design; 200k+ voice library; credit packs from $9 |
 
 > [Full voice cloning comparison →](categories/voice-cloning/)
