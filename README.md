@@ -217,6 +217,7 @@ SIP trunking, phone numbers, and call routing for voice AI agents.
 | **[Vonage](https://www.vonage.com/)** | Commercial | Enterprise-grade, video + voice, conversation API |
 | **[SignalWire](https://signalwire.com/)** | Commercial | FreeSWITCH creators, AI-native, programmable telco |
 | **[Bandwidth](https://www.bandwidth.com/)** | Commercial | Direct carrier, 911/E911, enterprise focus |
+| **[MeiSIM USA](https://www.meisimusa.com/api-for-ai-agents.html)** | Commercial | Real US mobile numbers on the T-Mobile network, SIP login per line with the number as caller ID, texts to a webhook, $45/mo with voice |
 | **[Vobiz](https://www.vobiz.ai/)** | Commercial | Global SIP trunking and phone numbers, WebSocket audio streaming, guides for LiveKit, Vapi, Pipecat and Retell |
 
 > [Full telephony comparison →](categories/telephony/)
