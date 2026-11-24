@@ -281,6 +281,7 @@ Model Context Protocol (MCP) servers relevant to voice AI applications.
 | **[Home Assistant MCP](https://github.com/homeassistant-ai/ha-mcp)** | Smart home control via MCP | Voice-controlled smart home |
 | **[Spotify MCP](https://github.com/marcelmarais/spotify-mcp-server)** | Music playback and search via MCP | "Play my playlist" from any voice agent |
 | **[DialogBrain MCP](https://docs.dialogbrain.com/)** | Full agent platform via MCP at api.dialogbrain.com/mcp — dispatch calls, translators, agents | Launch a voice call on Telegram/WhatsApp/Meet from any MCP client |
+| **[Yap MCP](https://github.com/founden-bot/yap-mcp)** | On-device speech-to-text MCP server and CLI (NVIDIA Parakeet, MIT) | Transcribe local audio and video files from Claude, Cursor or any MCP client without uploading them |
 | **[Telofy MCP](https://github.com/RuJerome/telofy-mcp)** | Read-only remote MCP server for Telofy accounts: calls, captured requests and booked appointments | Ask any MCP client what the phone assistant handled today |
 | **[CallForMe](https://callforme.tel)** | Remote MCP server (callforme.tel/mcp) that phones US and Canadian businesses, works phone menus and hold, and returns a transcript plus answers | An agent gets quotes, books reservations or cancels services by phone |
 | **[VoiceDock MCP](https://doc.voicedock.ai/docs/integrations/mcp-server)** | Hosted MCP server at mcp.hmsovereign.com/mcp to manage VoiceDock assistants, calls, numbers and campaigns | Build and test phone voice agents from any MCP client |
