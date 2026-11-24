@@ -67,6 +67,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[Hamming AI](https://hamming.ai/)** | Commercial | Voice agent testing and evaluation platform | Automated QA, regression testing, performance scoring |
 | **[Inworld AI](https://inworld.ai/)** | Commercial | Character-driven voice AI for games and enterprise | Real-time animation, emotional intelligence, gaming SDK |
 | **[PlayAI](https://play.ai/)** | Commercial | Voice agent platform with ultra-realistic voices | Sub-200ms latency, voice cloning, custom models |
+| **[QuestionPunk](https://www.questionpunk.com/)** | Commercial | AI-moderated voice interviews for research studies, alongside survey questions | Browser interviews from a study link, follow-up questions based on answers, voice in 25 languages, response reports and cross-tabs |
 | **[Thoughtly](https://www.thoughtly.io/)** | Commercial | Enterprise voice agent with human-like conversations | No-code builder, CRM sync, call analytics |
 | **[Voice Infra by miraiminds](https://voice.miraiminds.co)** | Commercial | Voice agent platform for inbound and outbound phone calls in Hindi, Hinglish and English, hosted in India | From ₹1/min at volume (₹1,00,000/month commitment), ₹5/min pay as you go; TTS, STT and LLM APIs, with STT and LLM on own GPUs in India; prompt or node-based flows, CSV campaigns, webhooks |
 | **[Workforce Wave](https://www.workforcewave.com/)** | Commercial | AI voice receptionist that answers inbound calls 24/7 for small businesses | Appointment booking, lead capture, after-hours coverage |
