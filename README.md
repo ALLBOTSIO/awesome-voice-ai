@@ -69,6 +69,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[Thoughtly](https://www.thoughtly.io/)** | Commercial | Enterprise voice agent with human-like conversations | No-code builder, CRM sync, call analytics |
 | **[Workforce Wave](https://www.workforcewave.com/)** | Commercial | AI voice receptionist that answers inbound calls 24/7 for small businesses | Appointment booking, lead capture, after-hours coverage |
 | **[DialogBrain](https://dialogbrain.com/voice/api)** | Commercial | Multi-channel voice agents — calls on Telegram, WhatsApp, Google Meet, and web widgets | Real-time call translation, lipsync avatars, 244+ MCP tools, per-tenant Postgres |
+| **[Telofy](https://telofy.de/)** | Commercial | AI phone receptionist for businesses in Germany, from single practices to multi-location companies (German-language calls); REST API, signed webhooks, MCP server | Keeps the existing number via call forwarding, appointment booking via cal.com, order intake with kitchen printer, white-label for agencies, EU data processing |
 | **[Lokutor](https://lokutor.com/)** | Commercial | Full voice-agent pipeline (STT + LLM + TTS) with REST and WebSocket APIs | CPU-capable model (on-prem/edge deployable), GPU-hosted at scale, 10 built-in voices, 9 languages |
 
 > [Detailed comparison →](categories/voice-agents/)
@@ -275,6 +276,7 @@ Model Context Protocol (MCP) servers relevant to voice AI applications.
 | **[Home Assistant MCP](https://github.com/homeassistant-ai/ha-mcp)** | Smart home control via MCP | Voice-controlled smart home |
 | **[Spotify MCP](https://github.com/marcelmarais/spotify-mcp-server)** | Music playback and search via MCP | "Play my playlist" from any voice agent |
 | **[DialogBrain MCP](https://docs.dialogbrain.com/)** | Full agent platform via MCP at api.dialogbrain.com/mcp — dispatch calls, translators, agents | Launch a voice call on Telegram/WhatsApp/Meet from any MCP client |
+| **[Telofy MCP](https://github.com/RuJerome/telofy-mcp)** | Read-only remote MCP server for Telofy accounts: calls, captured requests and booked appointments | Ask any MCP client what the phone assistant handled today |
 | **[CallForMe](https://callforme.tel)** | Remote MCP server (callforme.tel/mcp) that phones US and Canadian businesses, works phone menus and hold, and returns a transcript plus answers | An agent gets quotes, books reservations or cancels services by phone |
 | **[VoiceDock MCP](https://doc.voicedock.ai/docs/integrations/mcp-server)** | Hosted MCP server at mcp.hmsovereign.com/mcp to manage VoiceDock assistants, calls, numbers and campaigns | Build and test phone voice agents from any MCP client |
 | **[call4me](https://github.com/skeptrunedev/call4me)** | Remote MCP server (OAuth) where an AI voice agent places phone calls to businesses for the user and reports the outcome | Book appointments, cancel subscriptions, and handle phone menus from Claude Code or Codex |
