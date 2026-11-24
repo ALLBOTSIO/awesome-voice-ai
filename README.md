@@ -58,6 +58,7 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[LiveKit Agents](https://github.com/livekit/agents)** | Open Source | Real-time voice agent framework with WebRTC | Fully open source, plugin architecture, MCP support |
 | **[Hermes](https://www.buildwithhermes.com/)** | Commercial | Operating platform for AI voice agencies, white-label under the agency brand | Built-in CRM, campaign engine, per-client workspaces, usage billing, from $149/mo |
 | **[Synthflow](https://synthflow.ai/)** | Commercial | No-code voice agent builder | White-label, 200+ integrations, appointment booking |
+| **[VoiceDock](https://voicedock.ai/en)** | Commercial | EU-hosted voice agent platform for phone and web calls | REST API, Node.js SDK, hosted MCP server, bring-your-own-keys, €0.07/min plus models at cost |
 | **[Cognigy](https://www.cognigy.com/)** | Enterprise | Enterprise conversational AI platform | Omnichannel, contact center integration, 100+ languages |
 | **[Lindy AI](https://www.lindy.ai/)** | Commercial | AI assistant with voice agent capabilities | Multi-step workflows, triggers, CRM integration |
 | **[Air AI](https://www.air.ai/)** | Commercial | Autonomous voice agent for sales and customer service | 40+ minute conversations, calendar booking |
@@ -66,8 +67,13 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[Inworld AI](https://inworld.ai/)** | Commercial | Character-driven voice AI for games and enterprise | Real-time animation, emotional intelligence, gaming SDK |
 | **[PlayAI](https://play.ai/)** | Commercial | Voice agent platform with ultra-realistic voices | Sub-200ms latency, voice cloning, custom models |
 | **[Thoughtly](https://www.thoughtly.io/)** | Commercial | Enterprise voice agent with human-like conversations | No-code builder, CRM sync, call analytics |
+| **[Voice Infra by miraiminds](https://voice.miraiminds.co)** | Commercial | Voice agent platform for inbound and outbound phone calls in Hindi, Hinglish and English, hosted in India | From ₹1/min at volume (₹1,00,000/month commitment), ₹5/min pay as you go; TTS, STT and LLM APIs, with STT and LLM on own GPUs in India; prompt or node-based flows, CSV campaigns, webhooks |
 | **[Workforce Wave](https://www.workforcewave.com/)** | Commercial | AI voice receptionist that answers inbound calls 24/7 for small businesses | Appointment booking, lead capture, after-hours coverage |
 | **[DialogBrain](https://dialogbrain.com/voice/api)** | Commercial | Multi-channel voice agents — calls on Telegram, WhatsApp, Google Meet, and web widgets | Real-time call translation, lipsync avatars, 244+ MCP tools, per-tenant Postgres |
+| **[Pulse](https://pulsecorp.co)** | Commercial | AI-moderated customer interviews for market research, run by voice and other channels | Voice, video, text chat, phone call and WhatsApp interviews; free trial |
+| **[IrisAgent](https://irisagent.com/voice-ai/)** | Commercial | Customer service voice agents that layer onto existing telephony and helpdesks | Grounded in KB and ticket history, human handoff with context, AutoQA on 100% of calls, Zendesk/Salesforce/Intercom/Freshworks |
+| **[Telofy](https://telofy.de/)** | Commercial | AI phone receptionist for businesses in Germany, from single practices to multi-location companies (German-language calls); REST API, signed webhooks, MCP server | Keeps the existing number via call forwarding, appointment booking via cal.com, order intake with kitchen printer, white-label for agencies, EU data processing |
+| **[Lokutor](https://lokutor.com/)** | Commercial | Full voice-agent pipeline (STT + LLM + TTS) with REST and WebSocket APIs | CPU-capable model (on-prem/edge deployable), GPU-hosted at scale, 10 built-in voices, 9 languages |
 
 > [Detailed comparison →](categories/voice-agents/)
 
@@ -92,6 +98,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[Cartesia](https://cartesia.ai/)** | <80ms | 10+ | Sonic model, ultra-low latency streaming |
 | **[Fish Audio](https://fish.audio/)** | <150ms | 10+ | Open-weight models, voice cloning, multilingual |
 | **[CharaVox](https://charavox.com/)** | — | 6 | Character voices, voice cloning, role-specific pages (VoxCPM) |
+| **[Lokutor](https://lokutor.com/)** | — | 9 | REST + WebSocket streaming synthesis, CPU-capable model (on-prem/edge deployable), 10 built-in voices |
 
 ### Open Source
 
@@ -131,6 +138,7 @@ Transcription, real-time recognition, and audio understanding.
 | **[Gradium](https://gradium.ai/)** | <3% | 5 | Semantic VAD turn detection, real-time streaming, voice agent optimized |
 | **[Azure Speech](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text)** | <10% | 100+ | Custom speech models, real-time, batch |
 | **[Amazon Transcribe](https://aws.amazon.com/transcribe/)** | <12% | 100+ | Medical, call analytics, volume discounts to 67% |
+| **[SayDart](https://saydart.com/)** | — | 30 | Desktop AI voice dictation for Windows and macOS: hold a key, speak, polished text in any app |
 
 ### Open Source
 
@@ -184,6 +192,7 @@ Open-source frameworks for building voice AI applications.
 | **[NVIDIA Voice Agent](https://github.com/NVIDIA/voice-agent-examples)** | 500+ | Python | Pipecat-based examples for real-time voice agents |
 | **[MCP Voice Assistant](https://github.com/mcp-use/mcp-use-voice-assistant)** | 300+ | Python | Voice assistant powered by MCP, Whisper + ElevenLabs |
 | **[Gradbot](https://github.com/gradium-ai/gradbot)** | 100+ | Rust | Open-source voice agent framework built on Gradium TTS/STT APIs |
+| **[DuplexJev](https://github.com/adventists-ai/duplexjev)** | 10+ | Python | Turn detection and paralinguistic signals (end-of-turn, barge-in, emotion) from raw audio via a frozen speech LLM; LiveKit and Pipecat plugins. Apache-2.0 code, CC BY-NC weights |
 
 > [Full framework comparison →](categories/frameworks/)
 
@@ -212,6 +221,7 @@ Call analysis, conversation intelligence, and quality assurance.
 
 | Tool | Type | Description |
 |------|------|-------------|
+| **[Botik](https://github.com/777genius/discord-meeting-assistant)** | Open Source | Self-hosted Discord meeting assistant: records voice calls, transcribes, summarizes, and answers questions about the meeting |
 | **[Gong](https://www.gong.io/)** | Commercial | Revenue intelligence, call recording, deal insights |
 | **[Chorus.ai](https://www.chorus.ai/)** | Commercial | Conversation intelligence for sales teams (ZoomInfo) |
 | **[Observe.AI](https://www.observe.ai/)** | Commercial | Contact center AI, real-time agent assist, QA automation |
@@ -251,6 +261,7 @@ Major voice assistant ecosystems and their developer tools.
 | **[Samsung Bixby](https://bixbydevelopers.com/)** | Platform | Capsules, voice actions, SmartThings |
 | **[OpenClaw](https://github.com/nicbarker/openclaw)** | Open Source | Personal AI assistant, 50+ integrations, 210k+ stars |
 | **[Open WebUI](https://github.com/open-webui/open-webui)** | Open Source | Self-hosted AI with voice, 124k+ stars, offline capable |
+| **[Thursday](https://github.com/cgoinglove/thursday)** | Open Source | Voice assistant on OpenAI GPT-Live; background bots with a real browser and a shell keep working while the call goes on, MIT |
 | **[Home Assistant Voice](https://www.home-assistant.io/voice_control/)** | Open Source | Privacy-focused voice control for smart home |
 
 > [Full platform comparison →](categories/voice-platforms/)
@@ -271,6 +282,10 @@ Model Context Protocol (MCP) servers relevant to voice AI applications.
 | **[Spotify MCP](https://github.com/marcelmarais/spotify-mcp-server)** | Music playback and search via MCP | "Play my playlist" from any voice agent |
 | **[DialogBrain MCP](https://docs.dialogbrain.com/)** | Full agent platform via MCP at api.dialogbrain.com/mcp — dispatch calls, translators, agents | Launch a voice call on Telegram/WhatsApp/Meet from any MCP client |
 | **[Yap MCP](https://github.com/founden-bot/yap-mcp)** | On-device speech-to-text MCP server and CLI (NVIDIA Parakeet, MIT) | Transcribe local audio and video files from Claude, Cursor or any MCP client without uploading them |
+| **[Telofy MCP](https://github.com/RuJerome/telofy-mcp)** | Read-only remote MCP server for Telofy accounts: calls, captured requests and booked appointments | Ask any MCP client what the phone assistant handled today |
+| **[CallForMe](https://callforme.tel)** | Remote MCP server (callforme.tel/mcp) that phones US and Canadian businesses, works phone menus and hold, and returns a transcript plus answers | An agent gets quotes, books reservations or cancels services by phone |
+| **[VoiceDock MCP](https://doc.voicedock.ai/docs/integrations/mcp-server)** | Hosted MCP server at mcp.hmsovereign.com/mcp to manage VoiceDock assistants, calls, numbers and campaigns | Build and test phone voice agents from any MCP client |
+| **[call4me](https://github.com/skeptrunedev/call4me)** | Remote MCP server (OAuth) where an AI voice agent places phone calls to businesses for the user and reports the outcome | Book appointments, cancel subscriptions, and handle phone menus from Claude Code or Codex |
 
 > See **[Alexa-MCPs](https://github.com/ALLBOTSIO/Alexa-MCPs)** for the full 200-server directory of MCP servers optimized for voice assistants.
 
