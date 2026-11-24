@@ -66,7 +66,9 @@ Platforms for building, deploying, and managing AI voice agents.
 | **[Inworld AI](https://inworld.ai/)** | Commercial | Character-driven voice AI for games and enterprise | Real-time animation, emotional intelligence, gaming SDK |
 | **[PlayAI](https://play.ai/)** | Commercial | Voice agent platform with ultra-realistic voices | Sub-200ms latency, voice cloning, custom models |
 | **[Thoughtly](https://www.thoughtly.io/)** | Commercial | Enterprise voice agent with human-like conversations | No-code builder, CRM sync, call analytics |
+| **[Workforce Wave](https://www.workforcewave.com/)** | Commercial | AI voice receptionist that answers inbound calls 24/7 for small businesses | Appointment booking, lead capture, after-hours coverage |
 | **[DialogBrain](https://dialogbrain.com/voice/api)** | Commercial | Multi-channel voice agents — calls on Telegram, WhatsApp, Google Meet, and web widgets | Real-time call translation, lipsync avatars, 244+ MCP tools, per-tenant Postgres |
+| **[Lokutor](https://lokutor.com/)** | Commercial | Full voice-agent pipeline (STT + LLM + TTS) with REST and WebSocket APIs | CPU-capable model (on-prem/edge deployable), GPU-hosted at scale, 10 built-in voices, 9 languages |
 
 > [Detailed comparison →](categories/voice-agents/)
 
@@ -91,6 +93,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[Cartesia](https://cartesia.ai/)** | <80ms | 10+ | Sonic model, ultra-low latency streaming |
 | **[Fish Audio](https://fish.audio/)** | <150ms | 10+ | Open-weight models, voice cloning, multilingual |
 | **[CharaVox](https://charavox.com/)** | — | 6 | Character voices, voice cloning, role-specific pages (VoxCPM) |
+| **[Lokutor](https://lokutor.com/)** | — | 9 | REST + WebSocket streaming synthesis, CPU-capable model (on-prem/edge deployable), 10 built-in voices |
 
 ### Open Source
 
@@ -211,6 +214,7 @@ Call analysis, conversation intelligence, and quality assurance.
 
 | Tool | Type | Description |
 |------|------|-------------|
+| **[Botik](https://github.com/777genius/discord-meeting-assistant)** | Open Source | Self-hosted Discord meeting assistant: records voice calls, transcribes, summarizes, and answers questions about the meeting |
 | **[Gong](https://www.gong.io/)** | Commercial | Revenue intelligence, call recording, deal insights |
 | **[Chorus.ai](https://www.chorus.ai/)** | Commercial | Conversation intelligence for sales teams (ZoomInfo) |
 | **[Observe.AI](https://www.observe.ai/)** | Commercial | Contact center AI, real-time agent assist, QA automation |
@@ -250,6 +254,7 @@ Major voice assistant ecosystems and their developer tools.
 | **[Samsung Bixby](https://bixbydevelopers.com/)** | Platform | Capsules, voice actions, SmartThings |
 | **[OpenClaw](https://github.com/nicbarker/openclaw)** | Open Source | Personal AI assistant, 50+ integrations, 210k+ stars |
 | **[Open WebUI](https://github.com/open-webui/open-webui)** | Open Source | Self-hosted AI with voice, 124k+ stars, offline capable |
+| **[Thursday](https://github.com/cgoinglove/thursday)** | Open Source | Voice assistant on OpenAI GPT-Live; background bots with a real browser and a shell keep working while the call goes on, MIT |
 | **[Home Assistant Voice](https://www.home-assistant.io/voice_control/)** | Open Source | Privacy-focused voice control for smart home |
 
 > [Full platform comparison →](categories/voice-platforms/)
