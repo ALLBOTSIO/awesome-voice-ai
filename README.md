@@ -146,6 +146,7 @@ Transcription, real-time recognition, and audio understanding.
 | **[Amazon Transcribe](https://aws.amazon.com/transcribe/)** | <12% | 100+ | Medical, call analytics, volume discounts to 67% |
 | **[Velma Transcribe (Modulate)](https://www.modulate.ai/api/speech-to-text)** | 14.9% (AMI) | 50+ | Batch and streaming, diarization, emotion and accent detection, PII redaction |
 | **[SayDart](https://saydart.com/)** | — | 30 | Desktop AI voice dictation for Windows and macOS: hold a key, speak, polished text in any app |
+| **[Oruk Speech API (Fourier 2B)](https://oruk.ai/docs)** | 5.52% (Open ASR) | English | Batch OpenAI-compatible REST API at $0.0080/min ($0.48/hr), 2.04B Qwen3-ASR architecture |
 
 ### Open Source
 
@@ -160,6 +161,7 @@ Transcription, real-time recognition, and audio understanding.
 | **[Whisper-Streaming](https://github.com/ufal/whisper_streaming)** | 2k+ | MIT | Real-time streaming Whisper with local agreement |
 | **[Insanely-Fast-Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)** | 7k+ | MIT | 150x faster with speculative decoding + batching |
 | **[Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)** | 33 | AGPL-3.0 | On-device voice dictation and transcription via Whisper.cpp, fully offline on Mac |
+| **[Oruk Fourier 2B](https://huggingface.co/oruk/oruk-fourier-2b)** | — | CC BY-NC 4.0 | 2.04B English ASR model (5.52% Open ASR v1.16.3 avg WER, 254x RTFx); BF16, GGUF, ONNX, MLX |
 
 > [Full STT comparison →](categories/speech-to-text/)
 
