@@ -122,6 +122,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[MetaVoice](https://github.com/metavoiceio/metavoice-src)** | 3k+ | Apache 2.0 | Finetuning in 1 minute, emotional speech |
 | **[OpenEdAI Speech](https://github.com/matatonic/openedai-speech)** | 2k+ | AGPL | OpenAI API-compatible TTS server, drop-in replacement |
 | **[AllTalk TTS](https://github.com/erew123/alltalk_tts)** | 2k+ | AGPL | Multi-engine TTS server, text-generation-webui support |
+| **[AudioSmith](https://github.com/hehehai/AudioSmith)** | 260 | AGPL-3.0 | macOS app on Apple silicon running Qwen3-TTS, Kokoro, Chatterbox and VoxCPM2 locally with MLX; cloning, voice design, audiobooks, dubbing, OpenAI-compatible API and MCP server |
 
 > [Full TTS comparison →](categories/text-to-speech/)
 
@@ -160,6 +161,7 @@ Transcription, real-time recognition, and audio understanding.
 | **[Whisper-Streaming](https://github.com/ufal/whisper_streaming)** | 2k+ | MIT | Real-time streaming Whisper with local agreement |
 | **[Insanely-Fast-Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)** | 7k+ | MIT | 150x faster with speculative decoding + batching |
 | **[Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)** | 33 | AGPL-3.0 | On-device voice dictation and transcription via Whisper.cpp, fully offline on Mac |
+| **[VoxtMini](https://github.com/hehehai/VoxtMini)** | 900+ | Apache 2.0 | macOS voice input: press a key in any app, local Qwen3-ASR or Whisper on MLX types at the cursor; optional clean-up, translation and rewriting |
 
 > [Full STT comparison →](categories/speech-to-text/)
 
