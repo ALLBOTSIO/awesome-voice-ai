@@ -183,6 +183,7 @@ Clone voices from short audio samples for custom TTS.
 | **[Play.ht](https://play.ht/)** | — | Commercial | Instant cloning, cross-lingual, API access |
 | **[Miragea](https://miragea.ai/)** | — | Commercial | Cloning from 5-10s samples, 10 languages, REST API |
 | **[Resona](https://resonaio.com/)** | — | Commercial | Web-console AI voice cloning, TTS & voice design; 200k+ voice library; credit packs from $9 |
+| **[Accessible Voice Changer](https://github.com/ali-ucel/erisilebilir-ses-degistirici)** | — | Freeware | Real-time RVC v2 voice conversion, local training & Demucs vocal separation; 100% NVDA screen-reader accessible (25 languages) |
 
 > [Full voice cloning comparison →](categories/voice-cloning/)
 
