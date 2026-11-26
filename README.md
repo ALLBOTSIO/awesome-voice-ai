@@ -146,8 +146,14 @@ Transcription, real-time recognition, and audio understanding.
 | **[Azure Speech](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text)** | <10% | 100+ | Custom speech models, real-time, batch |
 | **[Amazon Transcribe](https://aws.amazon.com/transcribe/)** | <12% | 100+ | Medical, call analytics, volume discounts to 67% |
 | **[Velma Transcribe (Modulate)](https://www.modulate.ai/api/speech-to-text)** | 14.9% (AMI) | 50+ | Batch and streaming, diarization, emotion and accent detection, PII redaction |
-| **[SayDart](https://saydart.com/)** | — | 30 | Desktop AI voice dictation for Windows and macOS: hold a key, speak, polished text in any app |
 | **[Oruk Speech API (Fourier 2B)](https://oruk.ai/docs)** | 5.52% (Open ASR) | English | Batch OpenAI-compatible REST API at $0.0080/min ($0.48/hr), 2.04B Qwen3-ASR architecture |
+
+### Commercial Dictation Apps
+
+| Tool | Platforms | Highlights |
+|------|-----------|------------|
+| **[DictaFlow](https://dictaflow.io)** | Windows, macOS, iOS, Android | Hold-to-talk dictation with custom vocabulary and a desktop typing mode for clipboard-restricted apps |
+| **[SayDart](https://saydart.com/)** | Windows, macOS | Desktop AI voice dictation: hold a key, speak, polished text in any app |
 
 ### Open Source
 
