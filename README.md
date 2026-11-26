@@ -122,6 +122,7 @@ AI-powered speech synthesis — from real-time voices to studio-quality narratio
 | **[MetaVoice](https://github.com/metavoiceio/metavoice-src)** | 3k+ | Apache 2.0 | Finetuning in 1 minute, emotional speech |
 | **[OpenEdAI Speech](https://github.com/matatonic/openedai-speech)** | 2k+ | AGPL | OpenAI API-compatible TTS server, drop-in replacement |
 | **[AllTalk TTS](https://github.com/erew123/alltalk_tts)** | 2k+ | AGPL | Multi-engine TTS server, text-generation-webui support |
+| **[AudioSmith](https://github.com/hehehai/AudioSmith)** | 260 | AGPL-3.0 | macOS app on Apple silicon running Qwen3-TTS, Kokoro, Chatterbox and VoxCPM2 locally with MLX; cloning, voice design, audiobooks, dubbing, OpenAI-compatible API and MCP server |
 
 > [Full TTS comparison →](categories/text-to-speech/)
 
@@ -162,6 +163,7 @@ Transcription, real-time recognition, and audio understanding.
 | **[Insanely-Fast-Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)** | 7k+ | MIT | 150x faster with speculative decoding + batching |
 | **[Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)** | 33 | AGPL-3.0 | On-device voice dictation and transcription via Whisper.cpp, fully offline on Mac |
 | **[Oruk Fourier 2B](https://huggingface.co/oruk/oruk-fourier-2b)** | — | CC BY-NC 4.0 | 2.04B English ASR model (5.52% Open ASR v1.16.3 avg WER, 254x RTFx); BF16, GGUF, ONNX, MLX |
+| **[VoxtMini](https://github.com/hehehai/VoxtMini)** | 900+ | Apache 2.0 | macOS voice input: press a key in any app, local Qwen3-ASR or Whisper on MLX types at the cursor; optional clean-up, translation and rewriting |
 
 > [Full STT comparison →](categories/speech-to-text/)
 
@@ -183,6 +185,7 @@ Clone voices from short audio samples for custom TTS.
 | **[Play.ht](https://play.ht/)** | — | Commercial | Instant cloning, cross-lingual, API access |
 | **[Miragea](https://miragea.ai/)** | — | Commercial | Cloning from 5-10s samples, 10 languages, REST API |
 | **[Resona](https://resonaio.com/)** | — | Commercial | Web-console AI voice cloning, TTS & voice design; 200k+ voice library; credit packs from $9 |
+| **[Accessible Voice Changer](https://github.com/ali-ucel/erisilebilir-ses-degistirici)** | — | Freeware | Real-time RVC v2 voice conversion, local training & Demucs vocal separation; 100% NVDA screen-reader accessible (25 languages) |
 
 > [Full voice cloning comparison →](categories/voice-cloning/)
 
@@ -204,6 +207,7 @@ Open-source frameworks for building voice AI applications.
 | **[NVIDIA Voice Agent](https://github.com/NVIDIA/voice-agent-examples)** | 500+ | Python | Pipecat-based examples for real-time voice agents |
 | **[MCP Voice Assistant](https://github.com/mcp-use/mcp-use-voice-assistant)** | 300+ | Python | Voice assistant powered by MCP, Whisper + ElevenLabs |
 | **[Gradbot](https://github.com/gradium-ai/gradbot)** | 100+ | Rust | Open-source voice agent framework built on Gradium TTS/STT APIs |
+| **[jargo](https://github.com/gojargo/jargo)** | 100+ | Go | Real-time voice agent framework: STT→LLM→TTS pipelines or speech-to-speech over WebRTC, WebSocket, LiveKit and telephony; turn-taking and barge-in. BSD-2-Clause |
 | **[Jev-Interaction](https://github.com/native-bond-lab/Jev-Interaction)** | 100+ | Python | Full-duplex turn-taking engine for STT→LLM→TTS agents; backchannels, barge-in and silences as plain-language decisions |
 | **[DuplexJev](https://github.com/adventists-ai/duplexjev)** | 10+ | Python | Turn detection and paralinguistic signals (end-of-turn, barge-in, emotion) from raw audio via a frozen speech LLM; LiveKit and Pipecat plugins. Apache-2.0 code, CC BY-NC weights |
 
